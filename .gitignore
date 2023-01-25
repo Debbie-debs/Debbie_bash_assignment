@@ -2,4 +2,6 @@
 *sam
 *.vcf
 *.txt
-*bam
+*.bam
+variants_7.vcf
+minus#.txt 
