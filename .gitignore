@@ -1,3 +1,5 @@
 #ignore these files
-variants_7.vcf
-minus#.txt
+*sam
+*.vcf
+*.txt
+*bam
